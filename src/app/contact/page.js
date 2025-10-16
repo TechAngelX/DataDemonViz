@@ -46,7 +46,7 @@ export default function Contact() {
               Get In Touch
             </h1>
             <p className="text-slate-600 text-xl">
-              Have questions or feedback? We'd love to hear from you
+              Have questions or feedback? We&apos;d love to hear from you
             </p>
           </div>
 
@@ -86,7 +86,7 @@ export default function Contact() {
                       value={formData.subject}
                       onChange={handleChange}
                       className="w-full px-4 py-3 rounded-lg border-2 border-slate-200 focus:border-indigo-500 focus:outline-none transition-colors"
-                      placeholder="What's this about?"
+                      placeholder="What&apos;s this about?"
                       required
                   />
                 </div>
