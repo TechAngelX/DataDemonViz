@@ -15,7 +15,7 @@ export default function About() {
           className="w-16 h-16 rounded-full shadow-lg border-2 border-white"
         />
         <div className="text-sm">
-          <p className="font-bold text-gray-800">Tech Angel X</p>
+          <p className="font-bold text-gray-800">TechAngel X</p>
           <p className="text-gray-600 text-xs">by Ricki Angel</p>
         </div>
       </div>
