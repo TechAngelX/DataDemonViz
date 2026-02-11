@@ -112,14 +112,6 @@ Contributions are welcome! Feel free to:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Licence
-
-This project is open source and available under the [MIT Licence](LICENSE).
-
-## Author
-
-**Tech Angel X**  
-Created by Ricki Angel
 
 ## Acknowledgements
 
@@ -136,3 +128,29 @@ Created by Ricki Angel
 ---
 
 Star this repo if you find it helpful!
+
+
+## License
+Creative Commons:
+© Ricki Angel 2026 | TechAngelX
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+## Disclaimer
+
+This project is for personal or educational use only and comes without any warranty.
+***
+<h2 align="center">Support</h2>
+<div align="center">
+  For issues or questions, feel free to reach out to me on GitHub.
+  <br /><br />
+  <a href="https://techangelx.com" target="_blank" rel="noopener noreferrer">
+    <img src="./readme_images/logo.png" alt="Tech Angel X Logo" width="70" height="70" style="border-radius: 50%; border: 4px solid #ffffff; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+  </a>
+  <br /><br />
+  <b>Built by Ricki Angel</b> • <a href="https://techangelx.com" target="_blank" rel="noopener noreferrer">Tech Angel X</a>
+</div>
+
+
+
+
